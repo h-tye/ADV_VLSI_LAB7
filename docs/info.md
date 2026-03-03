@@ -8,13 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+This is a 4 bit multiplier circuit. The circuit functions such that 4-bit inputs, A and B are multiplied together to form a 8-bit output, P.
 
 ## How to test
-
-Explain how to use your project
+Testing can be done by setting A and B to integer values and then verfiying the output P = A*B.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware is required
